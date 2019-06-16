@@ -1,0 +1,12 @@
+TITLE "さふぁりどらいぶ♪"
+PERFORMER "どうぶつビスケッツ"
+REM GENRE "Anime"
+REM DATE "2018/10/4"
+REM DISCNUMBER 2
+REM TOTALDISCS 2
+REM DISCID 02049201
+FILE "data.bin" WAVE
+  TRACK 01 AUDIO
+    TITLE "オリジナルドラマ「うたのもと」"
+    PERFORMER "どうぶつビスケッツ"
+    INDEX 01 00:00:00
