@@ -1,0 +1,35 @@
+TITLE "Starry Story EP"
+PERFORMER "Gothic×Luck"
+REM GENRE "Anime"
+REM DATE "2019-3-17"
+REM DISCID 42056205
+FILE "data.bin" WAVE
+  TRACK 01 AUDIO
+    TITLE "星をつなげて"
+    PERFORMER "Gothic×Luck"
+    SONGWRITER "じん"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "オトノイロ"
+    PERFORMER "Gothic×Luck"
+    SONGWRITER "三矢禅晃"
+    INDEX 00 04:12:18
+    INDEX 01 04:12:35
+  TRACK 03 AUDIO
+    TITLE "星の帰り道"
+    PERFORMER "Gothic×Luck"
+    SONGWRITER "ANCHOR"
+    INDEX 00 08:56:55
+    INDEX 01 08:56:70
+  TRACK 04 AUDIO
+    TITLE "月と太陽"
+    PERFORMER "Gothic×Luck"
+    SONGWRITER "佐藤純一"
+    INDEX 00 13:13:64
+    INDEX 01 13:13:70
+  TRACK 05 AUDIO
+    TITLE "きみは帰る場所"
+    PERFORMER "Gothic×Luck"
+    SONGWRITER "佐藤純一"
+    INDEX 00 18:05:20
+    INDEX 01 18:05:25
