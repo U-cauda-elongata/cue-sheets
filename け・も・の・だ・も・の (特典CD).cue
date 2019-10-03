@@ -1,0 +1,27 @@
+TITLE "け・も・の・だ・も・の"
+PERFORMER "立山秋航"
+REM GENRE "Soundtrack"
+REM DATE "2019-10-4"
+REM DISCNUMBER 2
+REM TOTALDISCS 2
+REM DISCID 1F011704
+FILE "data.bin" WAVE
+  TRACK 01 AUDIO
+    TITLE "けもの達のホーム〜まずはここから〜"
+    PERFORMER "立山秋航"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "ワクワクけものバトル！"
+    PERFORMER "立山秋航"
+    INDEX 00 01:02:68
+    INDEX 01 01:03:00
+  TRACK 03 AUDIO
+    TITLE "次は何が起こるかな？"
+    PERFORMER "立山秋航"
+    INDEX 00 02:11:50
+    INDEX 01 02:12:00
+  TRACK 04 AUDIO
+    TITLE "強そうなの来たぁ〜！"
+    PERFORMER "立山秋航"
+    INDEX 00 03:25:73
+    INDEX 01 03:26:00
